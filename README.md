@@ -1,4 +1,4 @@
-# C867-Scripting-and-Programming-Applications
+Scripting-and-Programming-Applications
 
 This is a project I created for school using C++.
 
